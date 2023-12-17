@@ -1,16 +1,16 @@
 # Aashutosh Boob
 
-## Projects
+## Repositories
 
 ### Published Work:
-- [PlasmidMaker](https://github.com/Zhao-Group/PlasmidMaker_GuideDNA)
-- [Landing Pad](https://github.com/Zhao-Group/Landing-pad-model)
-- [CRISPR-COPIES](https://github.com/Zhao-Group/COPIES)
+- [PlasmidMaker](https://github.com/Zhao-Group/PlasmidMaker_GuideDNA) - [Manuscript](https://www.nature.com/articles/s41467-022-30355-y)
+- [Landing Pad](https://github.com/Zhao-Group/Landing-pad-model) - [Manuscript](https://www.sciencedirect.com/science/article/pii/S1096717623000927?casa_token=1zPv2ZIPDvgAAAAA:b83MhGJ1YFWNMOscWvwBzCMk1Pq0zYeHlAQjOp6gbDoih6HijXNhI-ShZvDE36p11l2r1vxx54Y#abs0015)
+- [CRISPR-COPIES](https://github.com/Zhao-Group/COPIES) - [Manuscript](https://www.biorxiv.org/content/10.1101/2023.09.06.556564v1.abstract)
 
 ### Upcoming Projects:
-- [CRISPR-COPIES + Multi-Omics for Archaea](https://github.com/Zhao-Group/Integration-Sites-M.16.4)
-- [Variational Autoencoder for Mitochondrial Targeting Sequence]
-- [ML-guided Genetic Toolkit for R. toruloides]
+- [CRISPR-COPIES + Multi-Omics for Archaea](https://github.com/Zhao-Group/Integration-Sites-M.16.4) - [Manuscript](Coming Soon)
+- [Variational Autoencoder for Mitochondrial Targeting Sequence] (Coming Soon)
+- [ML-guided Genetic Toolkit for R. toruloides] (Coming Soon)
   
 ## About Me
 
