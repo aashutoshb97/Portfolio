@@ -13,5 +13,5 @@ Hi! I am a Ph.D. Candidate in the Department of Chemical and Biomolecular Engine
 
 ### Upcoming Projects:
 - [CRISPR-COPIES + Multi-Omics for Archaea](Coming Soon) - [Code](https://github.com/Zhao-Group/Integration-Sites-M.16.4)
-- [Variational Autoencoder for Mitochondrial Targeting Sequence] (Coming Soon)
-- [ML-guided Genetic Toolkit for R. toruloides] (Coming Soon)
+- [Variational Autoencoder for Mitochondrial Targeting Sequence] (Coming Soon) - [Code](https://github.com/Zhao-Group/MTS-VAE)
+- [ML-guided Genetic Toolkit Design for Fungi] (Coming Soon) - [Code](https://github.com/Zhao-Group/ML-GTF)
