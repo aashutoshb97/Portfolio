@@ -19,4 +19,4 @@ I’m particularly enthusiastic about studying evolution at various levels, incl
 - Discovery, characterization, and application of chromosomal integration sites in the hyperthermophilic crenarchaeon Sulfolobus islandicus. [Paper](https://www.biorxiv.org/content/10.1101/2025.03.16.643552v1.abstract), [Code](https://github.com/Zhao-Group/Integration-Sites-M.16.4)
 
 ### Upcoming Projects:
-- [ML-guided Genetic Toolkit Design for Fungi] (Coming Soon) - [Code](https://github.com/Zhao-Group/ML-GTF)
+- ML-guided Genetic Toolkit Design for Fungi (Coming Soon) - [Code](https://github.com/Zhao-Group/ML-GTF)
