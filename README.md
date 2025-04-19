@@ -2,7 +2,11 @@
 
 ## About Me
 
-Hi! I am a Data Scientist at Sarepta Therapeutics. Preivously, I completed my Ph.D. in the Department of Chemical and Biomolecular Engineering at the University of Illinois Urbana-Champaign, where I was advised by [Dr. Huimin Zhao](http://faculty.scs.illinois.edu/~zhaogrp/). In graduate school, my research primarily focused on developing computational tools to engineer functionally improved synthetic biology components and cellular factories. I’m particularly enthusiastic about studying evolution at various levels, including regulatory elements, proteins, organelles, and strains. My career interests lie in harnessing Artificial Intelligence and Machine Learning to advance biology and healthcare.
+Hi! I am a Data Scientist at Sarepta Therapeutics. 
+
+Previously, I completed my Ph.D. in the Department of Chemical and Biomolecular Engineering at the University of Illinois Urbana-Champaign, where I was advised by [Dr. Huimin Zhao](http://faculty.scs.illinois.edu/~zhaogrp/). In graduate school, my research primarily focused on developing computational tools to engineer functionally improved synthetic biology components and cellular factories. 
+
+I’m particularly enthusiastic about studying evolution at various levels, including regulatory elements, proteins, organelles, and strains. My career interests lie in harnessing Artificial Intelligence and Machine Learning to advance biology and healthcare. Please feel free to reach out for scientific discussions or collaborations.
 
 ## Projects
 
