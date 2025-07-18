@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi! I am a Data Scientist at Sarepta Therapeutics. 
+Hi! I’m a Data Scientist at Sarepta Therapeutics, where I develop advanced analytical methods to leverage internal and external chemistry and biological data in support of all therapeutic modalities, including RNA, gene therapy, and gene editing.
 
 Previously, I completed my Ph.D. in the Department of Chemical and Biomolecular Engineering at the University of Illinois Urbana-Champaign, where I was advised by [Dr. Huimin Zhao](http://faculty.scs.illinois.edu/~zhaogrp/). In graduate school, my research primarily focused on developing computational tools to engineer functionally improved synthetic biology components and cellular factories. 
 
