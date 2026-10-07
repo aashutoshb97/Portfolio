@@ -4,11 +4,11 @@
 
 Hi! I'm an AI Scientist at Aizen Therapeutics, where I develop generative AI and machine learning (ML) approaches for de novo peptide design and therapeutic discovery.
 
-Previously, I was a Data Scientist at Sarepta Therapeutics, where I worked on ML-guided targeted delivery of RNA therapeutics. I also developed advanced analytical methods to leverage internal and external chemistry and biological data in support of all therapeutic modalities, including RNA, gene therapy, and gene editing.
+Previously, I was a Data Scientist at Sarepta Therapeutics, where I worked on ML-guided targeted delivery of RNA therapeutics. I also developed advanced analytical methods to leverage internal and external chemistry and biological data across multiple therapeutic modalities, including RNA, gene therapy, and gene editing.
 
-I earned my Ph.D. in Chemical Engineering from the University of Illinois Urbana-Champaign, where I was advised by [Dr. Huimin Zhao](http://faculty.scs.illinois.edu/~zhaogrp/). In graduate school, my research primarily focused on developing ML and bioinformatic tools to engineer functionally improved synthetic biology components and cellular factories. 
+I earned my Ph.D. in Chemical Engineering from the University of Illinois Urbana-Champaign, where I was advised by [Dr. Huimin Zhao](http://faculty.scs.illinois.edu/~zhaogrp/). My doctoral research focused on developing ML and bioinformatic tools to engineer functionally improved synthetic biology components and cellular factories. 
 
-I'm particularly enthusiastic about studying evolution at various levels, including regulatory elements, proteins, organelles, and strains. My career interests lie in harnessing Artificial Intelligence and Machine Learning to advance biology and healthcare. Please feel free to reach out for scientific discussions or collaborations.
+My research bridges AI and biological science to accelerate therapeutic discovery and transform healthcare. Please feel free to reach out for scientific discussions or potential collaborations!
 
 ## Projects
 
